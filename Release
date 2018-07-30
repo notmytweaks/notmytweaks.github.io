@@ -1,9 +1,9 @@
-Origin: Smacpats’ Repo
-Label: Smacpats’ Repo
+Origin: NotMyTweaks Repo
+Label: NotMyTweaks Repo
 Suite: stable
 Version: 1.0
-Codename: Smacpats
+Codename: NotMyTweaks-Smacpats
 Architectures: iphoneos-arm
 Components: main
-Description: Smacpats’ Repo
+Description: NotMyTweaks Repo
 MD5Sum:
