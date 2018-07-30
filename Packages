@@ -10,7 +10,7 @@ SHA1: dfea71fa01eff1fad7a0a955daa473336c8fbf9b
 SHA256: f533bfdb1cfff849eb6f81351403bcbda086e32f861f22026b837a68d763fd25
 Section: Tweaks
 Description: Better volume HUD!
-Depiction: https://smacpats.github.io/depic/Pikabu/index.html
+Depiction: https://notmytweaks.github.io/depic/Pikabu/index.html
 Name: Pikabu
 
 Package: ru.domo.cocoatop64
@@ -27,5 +27,5 @@ SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
 Section: Utilities
 Description: Process Viewer for iOS GUI (64-bit)
 Author: Domo
-Depiction: https://smacpats.github.io/depic/Cocoatop/index.html
+Depiction: https://notmytweaks.github.io/depic/Cocoatop/index.html
 Name: CocoaTop
